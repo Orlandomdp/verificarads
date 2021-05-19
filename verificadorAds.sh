@@ -1,3 +1,5 @@
+#!/bin/bash
+echo ""
 tokens=$(echo "91e22bd5-7b79-4fef-8dfa-c40f1ff3736b
 db6327ec-3ad5-46a4-881e-1deff71c879a
 02f76cd1-eead-44ff-88dd-aa69538c7aef
